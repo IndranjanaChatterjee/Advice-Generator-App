@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://github.com/IndranjanaChatterjee/Advice-Generator-App)
 - Live Site URL: [live site URL](https://indranjanachatterjee.github.io/Advice-Generator-App/)
 
 ## My process
