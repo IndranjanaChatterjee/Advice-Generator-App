@@ -68,7 +68,7 @@ let url = fetch(`https://api.adviceslip.com/advice`);
 
 ## Author
 
-- Website - [Indranjana Chatterjee](https://www.your-site.com)
+- Website - [Indranjana Chatterjee](https://indranjanachatterjee.github.io/Advice-Generator-App/)
 - Frontend Mentor - [@IndranjanaChatterjee](https://www.frontendmentor.io/profile/IndranjanaChatterjee)
 
 
