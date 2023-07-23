@@ -1,9 +1,9 @@
 const id = document.getElementById("id");
 const advice = document.getElementById("advice");
 const click = document.getElementById("click");
-let url = fetch(`https://api.adviceslip.com/advice`);
+let url = `https://api.adviceslip.com/advice`;
 click.addEventListener("click",() => {
-  url
+  fetch(url)
     .then((v) => {
       return(v.json());
     })
